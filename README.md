@@ -156,7 +156,7 @@
 
 * 애플리케이션 서버
 1. https://github.com/nayoon-kim/ohmymoney-server
-2. https://github.com/jinhee19/ResrAPI_server
+2. https://github.com/jinhee19/ijjag-wottyeo-server
 
 [ 사용자 ]
 - 사용자 회원가입 및 로그인
