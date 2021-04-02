@@ -154,7 +154,9 @@
 
 추천 시스템 서버은 [[ 추천 시스템 서버 ]](#-추천-시스템-서버-)를 참고하세요.
 
-* 애플리케이션 서버: https://github.com/nayoon-kim/ohmymoney-server
+* 애플리케이션 서버
+1. https://github.com/nayoon-kim/ohmymoney-server
+2. https://github.com/jinhee19/ResrAPI_server
 
 [ 사용자 ]
 - 사용자 회원가입 및 로그인
